@@ -17,4 +17,10 @@ p {
 }
 .footer a {
   margin: 0px 10px;
+  color: blue;
+}
+small {
+  text-align: center;
+  display: block;
+  margin-top: 50px;
 }
