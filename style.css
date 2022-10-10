@@ -1,3 +1,20 @@
-h1 {
+body {
+  background-color: rgb(215, 196, 229);
+}
+
+h1,
+p {
   text-align: center;
+}
+.jello-image {
+  border-radius: 6px;
+  display: block;
+  margin: 30px auto;
+}
+.footer {
+  margin: 10px;
+  text-align: center;
+}
+.footer a {
+  margin: 0px 10px;
 }
